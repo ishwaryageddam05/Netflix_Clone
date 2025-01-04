@@ -92,6 +92,6 @@ git push origin YourBranchName
 
 <p align="center">
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)]https://github.com/ishwaryageddam05/Netflix_Clone
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ishwaryageddam05/Netflix_Clone)
 
 </p>
